@@ -2,7 +2,7 @@
 
 name = 'gflows'
 
-version = '7.2.6'
+version = '0.0.1'
 
 description = 'G|Flows, or Greek Flows, provides 15-minute updates for the SPX, NDX and RUT indexes every Monday-Friday from 9:00am-4:30pm ET'
 
